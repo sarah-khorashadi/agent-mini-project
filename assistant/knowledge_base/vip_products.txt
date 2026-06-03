@@ -1,0 +1,21 @@
+VIP Products شامل سرویس‌ها و پلن‌های ویژه Rastad:
+
+1. VIP AI Assistant
+- دسترسی به مدل‌های پیشرفته
+- پاسخ‌دهی سریع‌تر
+- اولویت در پردازش درخواست‌ها
+
+2. Enterprise RAG System
+- اتصال به دیتابیس اختصاصی سازمان
+- قابلیت multi-agent routing
+- امنیت بالا و private deployment
+
+3. Custom AI Agent
+- طراحی agent اختصاصی برای کسب‌وکار
+- اتصال به CRM و ERP
+- پشتیبانی از workflowهای پیچیده
+
+4. Data Intelligence Pack
+- تحلیل داده سازمانی
+- گزارش‌گیری هوشمند
+- داشبورد AI-driven
